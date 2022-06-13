@@ -15,3 +15,8 @@
 <h3 align="center">Some statistics 👀:</h3>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=vnepogodin&show_icons=false&locale=en&theme=onedark" alt="vnepogodin" /> </p>
 <p align="center"> <img align="center" src=https://github-profile-trophy.vercel.app/?username=vnepogodin&show_icons=false&locale=en&theme=onedark&row=1" alt="vnepogodin" /> </p>
+
+
+<h3 align="center">💵 Support me:</h3>
+<p align="center"> bitcoin: bc1qmwglfchlc335du6pcu6w64cexu7cck0mzhyw42</p>
+<p align="center"> etherium: 0xc2dc77327F78A7B85Db3941Eb49e74F41E961649</p>
