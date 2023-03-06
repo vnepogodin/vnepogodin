@@ -18,5 +18,8 @@
 
 
 <h3 align="center">💵 Support me:</h3>
+<div align="center"><a href="https://nowpayments.io/donation?api_key=5GG55HH-GGPMVZJ-QMB8MR9-B5SP6HP" target="_blank">
+ <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="60px" alt="Crypto donation button by NOWPayments">
+</a></div>
 <p align="center"> bitcoin: bc1qmwglfchlc335du6pcu6w64cexu7cck0mzhyw42</p>
 <p align="center"> etherium: 0xc2dc77327F78A7B85Db3941Eb49e74F41E961649</p>
